@@ -17,7 +17,8 @@
   },
   "homepage": "https://github.com/kewl-ua/frontend-project-lvl1#readme",
   "bin": {
-    "code": "brain-games.js"
+    "code": "brain-games.js",
+    "brain-games": "bin/brain-games.js"
   },
   "type": "module" 
 }
