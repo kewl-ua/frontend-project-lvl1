@@ -19,5 +19,8 @@
   "bin": {
     "brain-games": "bin/brain-games.js"
   },
-  "type": "module" 
+  "type": "module",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
 }
